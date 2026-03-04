@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Patheia
 
 **Current Focus:**
-- 🤖 **Agent Infra:** Orchestration tools, specialized services & runtime for AI agents  
+- 🤖 **Agent Infra:** Tools for agents, specialized services & runtime for agents  
 - 🧮 **Computation:** Graph/tree algorithms, distributed task scheduling  
 - 🏥 **Domain Expertise:** Medical algorithm design, bioinformatics pipelines
 
